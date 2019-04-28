@@ -8,7 +8,9 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		withLua50_Debug|x86 = withLua50_Debug|x86
 		withLua50_Release|x86 = withLua50_Release|x86
+		withLua51_Debug_lib|x86 = withLua51_Debug_lib|x86
 		withLua51_Debug|x86 = withLua51_Debug|x86
+		withLua51_Release_lib|x86 = withLua51_Release_lib|x86
 		withLua51_Release|x86 = withLua51_Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
@@ -16,8 +18,12 @@ Global
 		{71891C1A-E328-4258-AC3F-6F9698C6D8B4}.withLua50_Debug|x86.Build.0 = withLua51_Release|Win32
 		{71891C1A-E328-4258-AC3F-6F9698C6D8B4}.withLua50_Release|x86.ActiveCfg = withLua50_Release|Win32
 		{71891C1A-E328-4258-AC3F-6F9698C6D8B4}.withLua50_Release|x86.Build.0 = withLua50_Release|Win32
+		{71891C1A-E328-4258-AC3F-6F9698C6D8B4}.withLua51_Debug_lib|x86.ActiveCfg = withLua51_Debug_lib|Win32
+		{71891C1A-E328-4258-AC3F-6F9698C6D8B4}.withLua51_Debug_lib|x86.Build.0 = withLua51_Debug_lib|Win32
 		{71891C1A-E328-4258-AC3F-6F9698C6D8B4}.withLua51_Debug|x86.ActiveCfg = withLua51_Debug|Win32
 		{71891C1A-E328-4258-AC3F-6F9698C6D8B4}.withLua51_Debug|x86.Build.0 = withLua51_Debug|Win32
+		{71891C1A-E328-4258-AC3F-6F9698C6D8B4}.withLua51_Release_lib|x86.ActiveCfg = withLua51_Release_lib|Win32
+		{71891C1A-E328-4258-AC3F-6F9698C6D8B4}.withLua51_Release_lib|x86.Build.0 = withLua51_Release_lib|Win32
 		{71891C1A-E328-4258-AC3F-6F9698C6D8B4}.withLua51_Release|x86.ActiveCfg = withLua51_Release|Win32
 		{71891C1A-E328-4258-AC3F-6F9698C6D8B4}.withLua51_Release|x86.Build.0 = withLua51_Release|Win32
 	EndGlobalSection
